@@ -55,3 +55,32 @@
   background-color: red;
   color: white;
 }
+.service-container {
+  height: 100vh;
+  background-image: url("asset/image/footer-bg.png"),
+    linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: space-around;
+}
+.right-container {
+  display: flex;
+}
+.first-two-box {
+}
+.box {
+  background-color: #fff;
+  color: #000;
+  width: 200px;
+  height: 150px;
+}
+.icon {
+  width: 80px;
+  height: 70px;
+  padding-bottom: 15px;
+}

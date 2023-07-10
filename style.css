@@ -9,8 +9,7 @@
   padding: 15px;
   align-items: center;
 }
-.logo {
-}
+
 .menus {
   display: flex;
   list-style: none;
@@ -200,7 +199,7 @@
 .footer-container {
   background-image: url(images/background.png),
     linear-gradient(45deg, #0a0909, #333333);
-  height: 350px;
+  height: 300px;
   color: white;
   display: flex;
   justify-content: space-around;

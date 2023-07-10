@@ -126,3 +126,115 @@
 .author-butthon {
   margin-top: 40px;
 }
+.appointment-container {
+  width: 80%;
+  display: flex;
+  background-color: red;
+  color: white;
+  margin-top: -45px;
+  margin-left: 10%;
+  height: 130px;
+  border-radius: 8px;
+  justify-content: center;
+}
+.phone-icon {
+  width: 80px;
+  height: 70px;
+  margin: 20px;
+}
+.phone {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  justify-content: center;
+  border-right: 2px solid black;
+}
+.app-description {
+  margin: 20px;
+  padding: 10px;
+}
+.app-btn {
+  margin-top: 25px;
+  margin-left: 10px;
+  margin-right: 25px;
+}
+.number {
+  text-align: center;
+  font-size: 25px;
+  margin-right: 30px;
+}
+.bg-title {
+  text-align: center;
+  margin: 50px;
+}
+.blog-container {
+  width: 80%;
+  margin: auto;
+  height: 700px;
+}
+.cards {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  justify-content: space-around;
+}
+.card {
+  width: 350px;
+  height: 450px;
+  box-shadow: 5px 5px 5px gray;
+  border-radius: 5px;
+  margin: 0px 20px;
+}
+.blog-img {
+  width: 100%;
+  border-radius: 5px;
+}
+.card-title {
+  margin: 10px;
+}
+.blog-description {
+  margin: 10px;
+  padding-top: 20px;
+  text-align: justify;
+}
+.footer-container {
+  background-image: url(images/background.png),
+    linear-gradient(45deg, #0a0909, #333333);
+  height: 350px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.links {
+  padding-top: 70px;
+  font-size: 18px;
+}
+.info {
+  padding-top: 20px;
+  height: 70px;
+  width: 200px;
+  text-align: justify;
+  font-size: 18px;
+}
+.contact {
+  padding-top: 70px;
+  font-size: 18px;
+}
+.ft {
+  text-align: center;
+  color: white;
+  background-image: url(images/background.png),
+    linear-gradient(45deg, #0a0909, #333333);
+  padding: 10px;
+}
+.ft-photo {
+  margin-top: 15px;
+  width: 120px;
+  height: 40px;
+  padding: 20px;
+  align-items: center;
+}
+footer ul li {
+  list-style: none;
+  margin: 5px;
+}
